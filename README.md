@@ -1,6 +1,6 @@
 ### Olá tudo bem? Me chamo Jackson Buzzano
 
- <div style="background-color: red">
+ <div>
   <a href="https://github.com/jacksonbuzzano">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=jacksonbuzzano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonbuzzano&layout=compact&langs_count=7&theme=merko"/>
